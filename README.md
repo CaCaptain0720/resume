@@ -135,4 +135,3 @@
 - **Location**: New Taipei City, Taiwan
 - **Email**: weiwei900720@gmail.com
 
-> 若此 README 將公開放在 GitHub，建議可改成只保留 Email，避免放入過多個人資訊。
